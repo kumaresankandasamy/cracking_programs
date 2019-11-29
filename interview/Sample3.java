@@ -1,8 +1,6 @@
 package interview;
 
 public class Sample3 {
-
-
     public static void main(String[] args) {
  int var1 =5;
  int var2 = 6;
